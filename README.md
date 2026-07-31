@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | MERN Developer | Flask Developer | EDA analysis | Building scalable web applications with clean, efficient code
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -186,16 +186,16 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="GitHub Stats"/>
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=0a192f" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&hide_border=true&langs_count=8&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikash1630&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vikash1630&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 <br/><br/>
 
@@ -203,7 +203,7 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <br/>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&theme=tokyonight&hide_border=true&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda)
 
 </div>
 
