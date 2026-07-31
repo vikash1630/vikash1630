@@ -1,24 +1,259 @@
-﻿# 💫 About Me:
-<div align="center"><br><br># Hi 👋, I'm Vikash Mundakar<br><br>### Full Stack Developer | Building scalable web applications with clean, efficient code<br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" /><br><br></div><br><br><br/><br><br>## 🧑‍💻 About Me<br><br>- 🎓 B.Tech CSE student at **Mahatma Gandhi Institute of Technology (MGIT)**, Hyderabad — Class of 2028<br>- 💻 Passionate **Full Stack Developer** with hands-on experience across the MERN stack and Flask<br>- 🏗️ Interested in **Backend Engineering, System Design, and Scalable Applications**<br>- 📊 Strong focus on **Data Structures & Algorithms** — 320+ problems solved and counting<br>- 🚀 Love building real-world software using modern technologies and clean architecture<br>- 🌱 Constantly learning, iterating, and shipping projects end-to-end — from design to deployment<br><br><br/><br><br>## 🔭 Current Focus<br><br>- 🧩 Solving DSA problems regularly across arrays, trees, graphs, and dynamic programming<br>- ⚙️ Building scalable **MERN** and **Flask** based full-stack projects<br>- 📡 Learning **System Design** and **Computer Networks** in depth<br>- 🎯 Actively looking for **Software Engineering Internship** opportunities<br><br><br/><br><br>## 🛠️ Tech Stack<br><br><details open><br><summary><b>Languages</b></summary><br><br/><br><br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br></details><br><br><details open><br><summary><b>Frontend</b></summary><br><br/><br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)<br>![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)<br><br></details><br><br><details open><br><summary><b>Backend</b></summary><br><br/><br><br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)<br>![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)<br>![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)<br><br></details><br><br><details open><br><summary><b>Databases</b></summary><br><br/><br><br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)<br><br></details><br><br><details open><br><summary><b>Core CS</b></summary><br><br/><br><br>![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B0082?style=for-the-badge)<br>![OS](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge)<br>![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)<br>![CN](https://img.shields.io/badge/Computer_Networks-0B5394?style=for-the-badge)<br>![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge)<br>![System Design](https://img.shields.io/badge/System_Design-16A085?style=for-the-badge)<br><br></details><br><br><details open><br><summary><b>Developer Tools</b></summary><br><br/><br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)<br>![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)<br>![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)<br>![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)<br><br></details><br><br><br/><br><br>## 🚀 Featured Projects<br><br><table><br><tr><br><td width="50%" valign="top"><br><br>### 🔗 [Local Lynk](https://github.com/vikash1630)<br>**Community-driven e-commerce platform**<br><br>- 🔐 JWT Authentication & RBAC (buyer / seller / admin)<br>- 💬 Real-time chat via Socket.IO<br>- ☁️ Image uploads via Multer + Cloudinary<br>- 🗄️ Optimized MongoDB schema & indexing<br>- 🛡️ Secured REST APIs with Helmet.js<br><br>`React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`<br><br>🌐 [Live Demo](https://local-lynk.vercel.app) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/vikash1630)<br><br></td><br><td width="50%" valign="top"><br><br>### 🚆 [Rail Pulse](https://github.com/vikash1630)<br>**Railway analytics platform**<br><br>- 🔎 7 advanced search modes powered by pandas<br>- 📡 14,500+ train records across 19 railway zones<br>- 🚉 7,000+ active stations with real-time updates<br>- ⚡ React Hooks optimization (useMemo, useCallback)<br>- 🧩 Versioned REST API contracts<br><br>`Flask` `React.js` `pandas` `REST APIs`<br><br>🌐 [Live Demo](https://rail-pulse-5t74.vercel.app) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/vikash1630)<br><br></td><br></tr><br><tr><br><td width="50%" valign="top"><br><br>### 🎮 [Solo Leveling Fitness App](https://github.com/vikash1630)<br>**Gamified fitness tracking platform**<br><br>- 🏆 Credit-based reward & penalty mechanism<br>- ⚡ Server-Side Rendering (SSR) for fast initial load<br>- 📈 ~40% SEO score improvement<br>- 📱 ~62% faster mobile load, ~58% smoother desktop animation<br><br>`Node.js` `Express.js` `MongoDB` `SSR`<br><br>🌐 [Live Demo](https://solo-levelling-fitness-model-app.onrender.com) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/vikash1630)<br><br></td><br><td width="50%" valign="top"><br><br>### ✨ More on my Portfolio<br>Explore all my projects, write-ups, and case studies in one place — built and deployed end-to-end.<br><br>🌐 [Visit Portfolio](https://pichu.site)<br><br></td><br></tr><br></table><br><br><br/><br><br>## 📊 GitHub Analytics<br><br><div align="center"><br><br><img height="165px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/><br><img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&hide_border=true" alt="GitHub Streak"/><br><br><br/><br><br><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&hide_border=true" alt="Top Languages"/><br><br><br/><br/><br><br><img src="https://raw.githubusercontent.com/vikash1630/vikash1630/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/><br><br><br/><br><br>![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&theme=minimal)<br><br></div><br><br><br/><br><br>## 🧠 Coding Profiles<br><br><div align="center"><br><br>[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)<br>[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-170%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)<br>![Total](https://img.shields.io/badge/Total_DSA_Solved-320%2B-blue?style=for-the-badge)<br><br></div><br><br><br/><br><br>## 🏆 Achievements<br><br>- 🥈 **Runner-up** at KL University Hackathon (120+ participating teams)<br>- 🏅 **Top 7** at JNTUH Brain O Vision Hackathon (150+ participating teams)<br>- 📚 Consistent academic performer with **~9.0 CGPA**<br>- 🛠️ Built and deployed multiple production-ready full-stack applications<br><br><br/><br><br>## 📜 Certifications<br><br>- ✅ CampusX DSMP 1.0 — Data Science Master Program (Python, pandas, EDA)<br>- ✅ Striver's A2Z DSA Sheet — Graphs, Trees, DP, Recursion<br>- ✅ Full Stack Development — MERN Stack Specialization<br><br><br/><br><br>## 🤝 Connect With Me<br><br><div align="center"><br><br>[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pichu.site)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)<br>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)<br>[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)<br>[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vikash1630@gmail.com)<br><br></div><br><br><br/><br><br>## 💭 Developer Philosophy<br><br>> *"Code is read far more often than it is written — clarity today saves debugging tomorrow."*<br><br>I believe in writing software that's not just functional, but maintainable, scalable, and built with intention — one clean commit at a time.<br><br><br/><br><br>---<br><br><div align="center"><br><br>**Thanks for visiting! Feel free to connect and collaborate. 🚀**<br><br></div>
+<div align="center">
 
+# Hi 👋, I'm Vikash Mundakar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b) 
+### Full Stack Developer | Building scalable web applications with clean, efficient code
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vikash1630&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vikash1630&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikash1630&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikash1630&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikash1630&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech CSE student at **Mahatma Gandhi Institute of Technology (MGIT)**, Hyderabad — Class of 2028
+- 💻 Passionate **Full Stack Developer** with hands-on experience across the MERN stack and Flask
+- 🏗️ Interested in **Backend Engineering, System Design, and Scalable Applications**
+- 📊 Strong focus on **Data Structures & Algorithms** — 320+ problems solved and counting
+- 🚀 Love building real-world software using modern technologies and clean architecture
+- 🌱 Constantly learning, iterating, and shipping projects end-to-end — from design to deployment
+
+<br/>
+
+## 🔭 Current Focus
+
+- 🧩 Solving DSA problems regularly across arrays, trees, graphs, and dynamic programming
+- ⚙️ Building scalable **MERN** and **Flask** based full-stack projects
+- 📡 Learning **System Design** and **Computer Networks** in depth
+- 🎯 Actively looking for **Software Engineering Internship** opportunities
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Core CS</b></summary>
+<br/>
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B0082?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-0B5394?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-16A085?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>Developer Tools</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+</details>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Local Lynk](https://github.com/vikash1630)
+**Community-driven e-commerce platform**
+
+- 🔐 JWT Authentication & RBAC (buyer / seller / admin)
+- 💬 Real-time chat via Socket.IO
+- ☁️ Image uploads via Multer + Cloudinary
+- 🗄️ Optimized MongoDB schema & indexing
+- 🛡️ Secured REST APIs with Helmet.js
+
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`
+
+🌐 [Live Demo](https://local-lynk.vercel.app) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/vikash1630)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚆 [Rail Pulse](https://github.com/vikash1630)
+**Railway analytics platform**
+
+- 🔎 7 advanced search modes powered by pandas
+- 📡 14,500+ train records across 19 railway zones
+- 🚉 7,000+ active stations with real-time updates
+- ⚡ React Hooks optimization (useMemo, useCallback)
+- 🧩 Versioned REST API contracts
+
+`Flask` `React.js` `pandas` `REST APIs`
+
+🌐 [Live Demo](https://rail-pulse-5t74.vercel.app) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/vikash1630)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Solo Leveling Fitness App](https://github.com/vikash1630)
+**Gamified fitness tracking platform**
+
+- 🏆 Credit-based reward & penalty mechanism
+- ⚡ Server-Side Rendering (SSR) for fast initial load
+- 📈 ~40% SEO score improvement
+- 📱 ~62% faster mobile load, ~58% smoother desktop animation
+
+`Node.js` `Express.js` `MongoDB` `SSR`
+
+🌐 [Live Demo](https://solo-levelling-fitness-model-app.onrender.com) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/vikash1630)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More on my Portfolio
+Explore all my projects, write-ups, and case studies in one place — built and deployed end-to-end.
+
+🌐 [Visit Portfolio](https://pichu.site)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/vikash1630/vikash1630/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+<br/>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&theme=minimal)
+
+</div>
+
+<br/>
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-170%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)
+![Total](https://img.shields.io/badge/Total_DSA_Solved-320%2B-blue?style=for-the-badge)
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🥈 **Runner-up** at KL University Hackathon (120+ participating teams)
+- 🏅 **Top 7** at JNTUH Brain O Vision Hackathon (150+ participating teams)
+- 📚 Consistent academic performer with **~9.0 CGPA**
+- 🛠️ Built and deployed multiple production-ready full-stack applications
+
+<br/>
+
+## 📜 Certifications
+
+- ✅ CampusX DSMP 1.0 — Data Science Master Program (Python, pandas, EDA)
+- ✅ Striver's A2Z DSA Sheet — Graphs, Trees, DP, Recursion
+- ✅ Full Stack Development — MERN Stack Specialization
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pichu.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vikash1630@gmail.com)
+
+</div>
+
+<br/>
+
+## 💭 Developer Philosophy
+
+> *"Code is read far more often than it is written — clarity today saves debugging tomorrow."*
+
+I believe in writing software that's not just functional, but maintainable, scalable, and built with intention — one clean commit at a time.
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vikash1630&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**Thanks for visiting! Feel free to connect and collaborate. 🚀**
+
+</div>
