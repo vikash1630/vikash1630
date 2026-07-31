@@ -23,10 +23,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE student at **Mahatma Gandhi Institute of Technology (MGIT)**, Hyderabad — Class of 2028
+- 🎓 B.Tech CSE student at **Mahatma Gandhi Institute of Technology (MGIT)**, Hyderabad — Batch of 2024-2028
 - 💻 Passionate **Full Stack Developer** with hands-on experience across the MERN stack and Flask
 - 🏗️ Interested in **Backend Engineering, System Design, and Scalable Applications**
-- 📊 Strong focus on **Data Structures & Algorithms** — 320+ problems solved and counting
+- 📊 Strong focus on **Data Structures & Algorithms** — 400+ problems solved and counting
 - 🚀 Love building real-world software using modern technologies and clean architecture
 - 🌱 Constantly learning, iterating, and shipping projects end-to-end — from design to deployment
 
