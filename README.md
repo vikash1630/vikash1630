@@ -1,17 +1,19 @@
 <div align="center">
 
-# Hi 👋, I'm Vikash Mundakar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:172554&height=200&section=header&text=Vikash%20Mundakar&fontSize=48&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Flask%20%7C%20DSA%20Enthusiast&descAlignY=58&descColor=CCD6F6" alt="header banner"/>
 
-### Full Stack Developer | MERN Developer | Flask Developer | EDA analysis | Building scalable web applications with clean, efficient code
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pichu.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0A192F)](https://pichu.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vikash1630@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vikash1630&label=Profile%20Views&color=64ffda&style=for-the-badge)
 
 </div>
 
@@ -195,10 +197,6 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikash1630&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/vikash1630/vikash1630/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 <br/>
@@ -242,7 +240,7 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pichu.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0A192F)](https://pichu.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
@@ -261,7 +259,7 @@ I believe in writing software that's not just functional, but maintainable, scal
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0A192F&height=120&section=footer" alt="footer banner"/>
 
 <div align="center">
 
