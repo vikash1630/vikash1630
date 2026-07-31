@@ -2,9 +2,16 @@
 
 # Hi 👋, I'm Vikash Mundakar
 
-### Full Stack Developer | Building scalable web applications with clean, efficient code
+### Full Stack Developer | MERN Developer | Flask Developer | EDA analysis | Building scalable web applications with clean, efficient code
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+320%2B+Problems+Solved;Building+Scalable+Systems;Open+to+SWE+Internship+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pichu.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vikash1630@gmail.com)
 
 </div>
 
@@ -179,12 +186,16 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&hide_border=true" alt="GitHub Streak"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vikash1630&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 <br/><br/>
 
@@ -192,7 +203,7 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <br/>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&theme=minimal)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
