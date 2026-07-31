@@ -188,26 +188,33 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
+
+**GitHub Stats**
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt="GitHub Stats"/>
 <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash1630&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=0a192f" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
+
+**Top Languages**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&hide_border=true&langs_count=8&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top Languages"/>
 
 <br/><br/>
 
+**Contribution Snake**
+
 <img src="https://raw.githubusercontent.com/vikash1630/vikash1630/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 <br/>
 
+**Contribution Graph**
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda)
 
 </div>
-
-<br/>
 
 ## 🧠 Coding Profiles
 
