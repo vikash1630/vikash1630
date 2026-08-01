@@ -213,9 +213,9 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-170%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)
-![Total](https://img.shields.io/badge/Total_DSA_Solved-320%2B-blue?style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)
+![Total](https://img.shields.io/badge/Total_DSA_Solved-400%2B-blue?style=for-the-badge)
 
 </div>
 
