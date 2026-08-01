@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | MERN Developer | Flask Developer | EDA Analysis | Building scalable web applications with clean, efficient code
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Open+to+SWE+Internship+Opportunities;Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Open+to+SDE+/SWE+Internship+Opportunities;Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
