@@ -4,18 +4,18 @@
 
 ### Full Stack Developer | MERN Developer | Flask Developer | EDA Analysis | Building scalable web applications with clean, efficient code
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Open+to+SDE/SWE+Internship+Opportunities;Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Open+to+SDE/SWE+Internship+Opportunities;Full+Stack+Developer+(MERN);Flask+%2B+Python+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=safari&logoColor=0A192F)](https://pichu.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=safari&logoColor=150025)](https://pichu.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vikash1630@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vikash1630&label=Profile%20Views&color=64ffda&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=vikash1630&label=Profile%20Views&color=c77dff&style=for-the-badge)
 
 </div>
 
@@ -96,11 +96,11 @@
 <br/>
 
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B0082?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer_Networks-0B5394?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-16A085?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-3C1361?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-5A189A?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-6A0DAD?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-7B2CBF?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-9D4EDD?style=for-the-badge)
 
 </details>
 
@@ -192,20 +192,20 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 **GitHub Stats**
 
-<img height="170px" src="https://github-readme-stats.shion.dev/api?username=vikash1630&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" alt=""/>
-<img height="170px" src="https://streak-stats.demolab.com/?user=vikash1630&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=0a192f" alt=""/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=vikash1630&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=150025&title_color=C77DFF&icon_color=C77DFF&text_color=E0D4F7" alt="GitHub Stats"/>
+<img height="170px" src="https://streak-stats.demolab.com/?user=vikash1630&hide_border=true&background=150025&ring=C77DFF&fire=C77DFF&currStreakNum=E0D4F7&sideNums=E0D4F7&currStreakLabel=C77DFF&sideLabels=9D7BC9&dates=9D7BC9&stroke=150025" alt="GitHub Streak"/>
 
 <br/><br/>
 
 **Top Languages**
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vikash1630&layout=compact&hide_border=true&langs_count=8&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1630&layout=compact&hide_border=true&langs_count=8&bg_color=150025&title_color=C77DFF&text_color=E0D4F7" alt="Top Languages"/>
 
 <br/><br/>
 
 **Contribution Graph**
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=64ffda)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikash1630&hide_border=true&bg_color=150025&color=C77DFF&line=C77DFF&point=E0D4F7&area=true&area_color=C77DFF)
 
 </div>
 
@@ -215,7 +215,7 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mvikask6kb)
-![Total](https://img.shields.io/badge/Total_DSA_Solved-400%2B-blue?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total_DSA_Solved-400%2B-9D4EDD?style=for-the-badge)
 
 </div>
 
@@ -242,7 +242,7 @@ Explore all my projects, write-ups, and case studies in one place — built and 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=safari&logoColor=0A192F)](https://pichu.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=safari&logoColor=150025)](https://pichu.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mundakar-vikash-0a8a6435b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash1630)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikash1630)
